@@ -1,0 +1,8 @@
+C:\Users\asus\Downloads\teejay\bin\Debug\teejay.exe.config
+C:\Users\asus\Downloads\teejay\bin\Debug\teejay.exe
+C:\Users\asus\Downloads\teejay\bin\Debug\teejay.pdb
+C:\Users\asus\Downloads\teejay\obj\Debug\teejay.csprojResolveAssemblyReference.cache
+C:\Users\asus\Downloads\teejay\obj\Debug\teejay.MainForm.resources
+C:\Users\asus\Downloads\teejay\obj\Debug\teejay.csproj.GenerateResource.Cache
+C:\Users\asus\Downloads\teejay\obj\Debug\teejay.exe
+C:\Users\asus\Downloads\teejay\obj\Debug\teejay.pdb
