@@ -181,7 +181,7 @@ namespace teejay
 			this.label1.Size = new System.Drawing.Size(161, 17);
 			this.label1.TabIndex = 11;
 			this.label1.Text = "label for title and art info";
-			this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+			this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
 			// 
 			// label2
 			// 
@@ -220,9 +220,9 @@ namespace teejay
 			this.listBox1.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
 			this.listBox1.FormattingEnabled = true;
 			this.listBox1.ItemHeight = 25;
-			this.listBox1.Location = new System.Drawing.Point(821, 79);
+			this.listBox1.Location = new System.Drawing.Point(879, 79);
 			this.listBox1.Name = "listBox1";
-			this.listBox1.Size = new System.Drawing.Size(214, 179);
+			this.listBox1.Size = new System.Drawing.Size(156, 129);
 			this.listBox1.TabIndex = 15;
 			// 
 			// MainForm
